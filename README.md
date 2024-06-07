@@ -1,1 +1,1 @@
-# pygame
+Simpler Spiel mit PyGame
